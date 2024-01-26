@@ -2,11 +2,10 @@
 # The base URL of your site (required). This will be prepended to all relative URLs.
 baseURL = "https://demo.gethugothemes.com/andromeda-light/site/"
 # Title of your website (required).
-title = "Andromeda-light - Software and SAAS Landing Hugo Theme"
+title = "Fulcrum.io - Digital Transformational Solutions Agency"
 # Your theme name
-theme = "andromeda-light-hugo"
 # Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
-timeZone = "America/New_York"
+timeZone = "Kenya/Nairobi"
 # post pagination
 paginate = 4 # see https://gohugo.io/extras/pagination/
 # post excerpt
@@ -120,7 +119,7 @@ rel = "manifest"
 white = "#ffffff"
 black = "#000000"
 light = "#FAFAFA"
-primary_color = "#FE6019"
+primary_color = "#4d23ed"
 
 # font variable
 h1 = "48px"
@@ -136,8 +135,8 @@ h6 = "15px"
 # example: "Work Sans:wght@400;500;600"
 primary_font = "Poppins:wght@400;500;600"
 primary_font_type = "sans-serif" # [serif/sans-serif]
-secondary_font = ""
-secondary_font_type = "" # [serif/sans-serif]
+secondary_font = "Playfair Display:wght@400;500;600"
+secondary_font_type = "serif" # [serif/sans-serif]
 icon_font = "Line Awesome Free"
 
 
